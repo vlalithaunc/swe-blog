@@ -10,7 +10,10 @@ date: "18-06-2024"
 
 API stands for Application Programming Interface. Okay...but what is that?
 
+Let's start with a simple example. 
+
+Let's say that you are using a weather app
 
 
-## What is Github?
+## What is ?
 
